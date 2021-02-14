@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on siang website</title>
+    <link>https://wsx13767.github.io/categories/test/</link>
+    <description>Recent content in test on siang website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 14 Feb 2021 14:37:47 +0800</lastBuildDate><atom:link href="https://wsx13767.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siang first page</title>
+      <link>https://wsx13767.github.io/blog/test/</link>
+      <pubDate>Sun, 14 Feb 2021 14:37:47 +0800</pubDate>
+      
+      <guid>https://wsx13767.github.io/blog/test/</guid>
+      <description>Hello world
+1.title 2.title 6.title 測試粗體測試斜體
+ 有序序列  內縮   有序序列   無序序列  內縮無序序列     引用</description>
+    </item>
+    
+  </channel>
+</rss>
